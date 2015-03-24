@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>Tricog Clinic App</name>
 
     <description>
-        An example for phonegap build docs. 
+        The Clinic App
     </description>
 
     <author href="https://tricog.com" email="abhinav@gtricog.com">
